@@ -94,3 +94,23 @@ background-size: 1500px 500px;
     margin-right: 30%;
     color: white;
 }
+.crt-img{
+    width: 30%;
+    float: left;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+.achivments{
+    height: 650px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 650px;
+}
+.picture{
+    max-width: 180px;
+    max-height: 300px;
+    margin-right: 2%;
+}
+ul{
+    color: dimgray;
+}
