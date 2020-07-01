@@ -97,7 +97,7 @@ background-size: 1500px 500px;
 .crt-img{
     width: 30%;
     float: left;
-    margin-top: 150px;
+    margin-top: 200px;
     margin-left: 40px;
 }
 .achivments{
@@ -113,4 +113,15 @@ background-size: 1500px 500px;
 }
 ul{
     color: dimgray;
+}
+li:hover{
+    color: indianred;
+    font-size: large;
+}
+h2:hover{
+    color: blue;
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
 }
