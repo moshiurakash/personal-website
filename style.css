@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+.top-part{
+background-image: url(images/header-bg.png);
+height: 650px;
+background-repeat: no-repeat;
+background-size: 1500px 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
+#header-text{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+h1{
+    font-size: 40px;
+    color: darkcyan;
+}
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background-color: cyan;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+.biography-part{
+    background-image: url(images/biography-bg.png);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: 1500px 650px;
+}
+#biography-text{
+    margin-top: 150px;
+}
+.work-img{
+    width: 22.5%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 40px darkgray;
+}
+.centar-heading{
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 2%;
+}
+.latest-work{
+background-image: url(images/latest-work-bg.png);
+height: 500px;
+background-repeat: no-repeat;
+background-size: 1500px 500px;
+}
+.client-review{
+background-image: url(images/footer-bg.png);
+height: 500px;
+background-repeat: no-repeat;
+background-size: 1500px 500px;
+}
+#client-name{
+    font-weight: 200;
+}
+#email-id{
+    font-size: 25px;
+    font-weight: 500;
+}
+.special-text{
+    margin-top: -5px;
+}
+#email-link{
+    background-color: red;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
