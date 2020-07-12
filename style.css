@@ -93,5 +93,35 @@ background-size: 1500px 500px;
     margin-left: 30%;
     margin-right: 30%;
     color: white;
-
+}
+.crt-img{
+    width: 30%;
+    float: left;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.achivments{
+    height: 650px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 650px;
+}
+.picture{
+    max-width: 180px;
+    max-height: 300px;
+    margin-right: 2%;
+}
+ul{
+    color: dimgray;
+}
+li:hover{
+    color: indianred;
+    font-size: large;
+}
+h2:hover{
+    color: blue;
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
 }
